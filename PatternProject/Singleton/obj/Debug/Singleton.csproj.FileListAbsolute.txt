@@ -1,0 +1,1 @@
+D:\视频教学\C#设计模式\PatternStudy\PatternProject\Singleton\bin\Debug\Singleton.exe.config
